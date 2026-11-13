@@ -220,6 +220,7 @@ temporada = dict(
     wa_text="Hola Pensok, quiero consultar por productos para mi pileta",
     wa_item="Hola Pensok, quiero consultar por {}",
     gtag="AW-16866458233",
+    conv="AW-16866458233/y4yVCO_q_bcdEPn0xuo-",
     hero="pilar_int1.jpg",
     tag="Temporada 2026-27 · Pilar y zona norte",
     h1="Todo para tu pileta <span>en Pilar</span>",
